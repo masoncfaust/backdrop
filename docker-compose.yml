@@ -3,7 +3,7 @@ backdrop:
   links:
     - db:mysql
   ports:
-    - 8080:80
+    - 80:80
 
 db:
   image: mysql
